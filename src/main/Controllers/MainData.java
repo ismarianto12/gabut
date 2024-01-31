@@ -7,3 +7,6 @@ public class MainData<T> {
         return paramsmainData;
     }
 }
+
+
+//    QR (Quick Response Code)

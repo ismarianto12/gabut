@@ -25,8 +25,7 @@ public class Main {
     private String setJloping(String param) {
         return this.Jloping = param;
     }
-
-
+    
     private Map<String, Object> getParatter(Object[] list) {
         Map<String, Object> has = new HashMap<>();
         for (int i = 0; i < list.length; i++) {
